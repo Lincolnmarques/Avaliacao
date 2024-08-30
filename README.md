@@ -38,5 +38,7 @@ Função calcularMedia: Captura os valores dos inputs, calcula a média aritmét
 Como Usar
 
 Clone o repositório.
+
 Abra index.html no navegador.
+
 Insira quatro números e clique em "Calcular Média" para ver o resultado.
