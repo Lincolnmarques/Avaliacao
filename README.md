@@ -5,9 +5,6 @@ HTML: Estrutura da página.
 CSS: Estilização da interface.
 JavaScript: Lógica de cálculo.
 
-Como Usar:
-Clone o repositório.
-Abra index.html no navegador.
-Insira quatro números e clique em "Calcular Média" para ver o resultado.
+Como Usar: Clone o repositório, abra index.html no navegador e insira quatro números e clique em "Calcular Média" para ver o resultado.
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
