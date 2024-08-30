@@ -1,5 +1,3 @@
-Calculadora de Média Aritmética
-
 Este projeto é uma calculadora de média aritmética simples desenvolvida com HTML, CSS e JavaScript. O usuário pode inserir quatro números, e o script calculará a média aritmética desses números, exibindo o resultado na página.
 
 Tecnologias Utilizadas
