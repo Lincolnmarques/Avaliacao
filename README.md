@@ -35,4 +35,8 @@ Principais Componentes:
 
 Função calcularMedia: Captura os valores dos inputs, calcula a média aritmética e atualiza o conteúdo HTML com o resultado.
 
-Como Usar: Clone o repositório, abra index.html no navegador e insira quatro números e clique em "Calcular Média" para ver o resultado.
+Como Usar
+
+Clone o repositório.
+Abra index.html no navegador.
+Insira quatro números e clique em "Calcular Média" para ver o resultado.
