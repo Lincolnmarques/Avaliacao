@@ -5,14 +5,6 @@ HTML: Estrutura da página.
 CSS: Estilização da interface.
 JavaScript: Lógica de cálculo.
 
-Estrutura do Projeto
-/meu-projeto
-|-- index.html          # Estrutura HTML da página
-|-- /css
-|   |-- styles.css      # Estilo CSS
-|-- /js
-    |-- script.js       # Lógica JavaScript
-    
 Como Usar:
 Clone o repositório.
 Abra index.html no navegador.
