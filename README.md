@@ -1,3 +1,5 @@
+Link do site: https://lincolnmarques.github.io/Avaliacao/
+
 Este projeto é uma calculadora de média aritmética simples desenvolvida com HTML, CSS e JavaScript. O usuário pode inserir quatro números, e o script calculará a média aritmética desses números, exibindo o resultado na página.
 
 Tecnologias Utilizadas:
@@ -40,7 +42,7 @@ O arquivo script.js contém a lógica de cálculo para a média aritmética. Ele
 
 Principais Componentes:
 
-Função calcularMedia: Captura os valores dos inputs, calcula a média aritmética e atualiza o conteúdo HTML com o resultado.
+Função calcular media: Captura os valores dos inputs, calcula a média aritmética e atualiza o conteúdo HTML com o resultado.
 
 Como Usar:
 
